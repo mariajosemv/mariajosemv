@@ -1,11 +1,11 @@
-<h1 align="center">Hello world 👋, I'm María José Medina</h1>
-<h3 align="center">A quasi physicist getting into code</h3>
+<h1 align="center">Hello world 👋, I'm María José</h1>
+<h3 align="center">A quasi physicist getting into code 🚀</h3>
 
-- 👩🏻‍💻 I' m currently learning **Data Science and Machine Learning**
+- 👩🏻‍💻 I' m currently learning **Data Science** and **Machine Learning**
 
 - 📝 I regularly write my class notes on [Notion](https://www.notion.so/mariajosemv/Platzi-37fe795e1e7344e3a3082d53098e4f34)
 
-- 🤝 I'd like to work in collaborative and open source projects 
+- 🌱 I'd like to work in collaborative and open source projects 
 
 - 📫 You can reach me on my email: **mariajosemvv@gmail.com**
 
