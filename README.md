@@ -3,7 +3,7 @@
 
 - 👩🏻‍💻 I' m currently learning **Data Science** and **Machine Learning**
 
-- 📝 I regularly write my class notes on [Notion](https://www.notion.so/mariajosemv/Platzi-37fe795e1e7344e3a3082d53098e4f34)
+- 📝 I regularly write my class notes on [Notion](https://www.notion.so/mariajosemv/Class-notes-4e2a3dfe40e643ba8f148b95eb597a0b)
 
 - 🌱 I'd like to work in collaborative and open source projects 
 
