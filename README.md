@@ -1,11 +1,12 @@
-<h1 align="center">Hello world 👋, I'm María José</h1>
-<h3 align="center">A quasi physicist getting into code 🚀</h3>
+<h3 align="left">Hello world 👋, I'm María José</h3>
 
-- 👩🏻‍💻 I' m currently learning **Data Science** and **Machine Learning**
+- 🪐 I am a physics student from Venezuela.
+
+- 👩🏻‍💻 I am also currently learning **Data Science** and **Machine Learning**
 
 - 📝 I regularly write my class notes on [Notion](https://www.notion.so/mariajosemv/Class-notes-4e2a3dfe40e643ba8f148b95eb597a0b)
 
-- 🌱 I'd like to work in collaborative and open source projects 
+- 🌱 I'd like to work in collaborative and open source projects. 
 
 - 📫 You can reach me on my email: **mariajosemvv@gmail.com**
 
