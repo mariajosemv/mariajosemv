@@ -6,7 +6,7 @@
  - Data Science in Platzi [Data Science School](https://platzi.com/datos/).
  - Machine Learning in Platzi [Artificial Intelligence and Machine Learning Track](https://platzi.com/datos/).
  
- *(You can see my progress [here](https://platzi.com/@mariajosemv/))* 😉
+ You can see my progress [here](https://platzi.com/@mariajosemv/) 😉
  
  📝 I'm a Note taker enthusiast in [Notion](https://www.notion.so/mariajosemv/Class-notes-4e2a3dfe40e643ba8f148b95eb597a0b).
   
