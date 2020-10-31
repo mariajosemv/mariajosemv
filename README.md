@@ -1,13 +1,15 @@
 <h3 align="center">Hello world 👋, I'm María José</h3>
 
-🪐 I am a physics student from Venezuela.
+🪐 I am a Physics thesis student from Universidad de Oriente - Venezuela.
 
- 👩🏻‍💻 I am also currently learning **Data Science** and **Machine Learning**.
+ 👩🏻‍💻 I am also currently learning:
+ - Data Science in Platzi [Data Science School](https://platzi.com/datos/).
+ - Machine Learning in Platzi [Artificial Intelligence and Machine Learning Track](https://platzi.com/datos/).
  
- 📝 I regularly write my class notes on [Notion](https://www.notion.so/mariajosemv/Class-notes-4e2a3dfe40e643ba8f148b95eb597a0b).
+ *(You can see my progress [here](https://platzi.com/@mariajosemv/))* 😉
  
- 🌱 I'd like to work in collaborative and open source projects. 
- 
+ 📝 I'm a Note taker enthusiast in [Notion](https://www.notion.so/mariajosemv/Class-notes-4e2a3dfe40e643ba8f148b95eb597a0b).
+  
  📫 You can reach me on my email: **mariajosemvv@gmail.com**
  
 <div align="center">
