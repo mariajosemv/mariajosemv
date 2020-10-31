@@ -1,4 +1,4 @@
-<h3 align="center">Hello world 👋, I'm María José</h3>
+<h3 align="center">Hello 👋, I'm María José</h3>
 
 🪐 I am a Physics thesis student from Universidad de Oriente - Venezuela.
 
