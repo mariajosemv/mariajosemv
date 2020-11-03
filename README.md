@@ -4,7 +4,7 @@
 
  👩🏻‍💻 I am also currently learning:
  - Data Science in Platzi [Data Science School](https://platzi.com/datos/).
- - Machine Learning in Platzi [Artificial Intelligence and Machine Learning Track](https://platzi.com/datos/).
+ - Machine Learning in Platzi [Artificial Intelligence and Machine Learning Track](https://platzi.com/ai/).
  
  You can see my progress [here](https://platzi.com/@mariajosemv/). 😉
  
