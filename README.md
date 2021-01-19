@@ -6,11 +6,9 @@
  - Data Science in Platzi [Data Science School](https://platzi.com/datos/).
  - Machine Learning in Platzi [Artificial Intelligence and Machine Learning Track](https://platzi.com/ai/).
  
- You can see my progress [here](https://platzi.com/@mariajosemv/), and check my notes on Notion over [here](https://www.notion.so/mariajosemv/Class-notes-4e2a3dfe40e643ba8f148b95eb597a0b) 😉
-  
- 📫 You can reach me on my email: **mariajosemvv@gmail.com** 
- 
- 💪 I would love to apply my knowledge on some real world problems, so I open to internships/part-time opportunities on Machine Learning or Data Science .
+   👉 You can see my progress [here](https://platzi.com/@mariajosemv/), and check my notes on Notion over [here](https://www.notion.so/mariajosemv/Class-notes-4e2a3dfe40e643ba8f148b95eb597a0b). ✨ 
+   
+🌟 I would love to apply my knowledge on some real world problems, so I open to internships/part-time opportunities on Machine Learning or Data Science.
  
  
 <div align="left">
@@ -38,9 +36,4 @@
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
 </p>
- 
- 
-<a href="https://twitter.com/mariajosemvv" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mariajosemvv" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/mariajosemv" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mariajosemv" height="30" width="30" /></a>
-<a href="https://instagram.com/mariajosemvv" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mariajosemvv" height="30" width="30" /></a>
-</p>
+
