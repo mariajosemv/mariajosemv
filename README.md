@@ -1,6 +1,6 @@
 <h3 align="left">Hello 👋, I'm María José</h3>
 
-🪐 I am a Physics thesis student from the University of the East (UDO - Venezuela)
+🚀 I am Physicist from the University of the East (UDO - Venezuela)
 
 ⚛️ I like to do Data Science so that's why I currently learning:
  - Data Science in Platzi [Data Science School](https://platzi.com/datos/).
@@ -12,28 +12,19 @@
  
  
 <div align="left">
-<h4 align="left">Technologies with which I have worked</h4>
-
-<p align="left">
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="linux" width="40" height="40"/> 
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="40" height="40"/> 
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="40" height="40"/></p>
-
-<h4 align="left"> Contact me </h4>
-
-<p align="left">
+<h4 align="left"> ⚙️ Tech & Tools</h4>
  
- <a href="https://t.me/mariajosemv">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
+ 
+![GIT](http://img.shields.io/badge/-Git-8787ff?style=flat&logo=git&logoColor=white)
+![GITHUB](http://img.shields.io/badge/-Github-8787ff?style=flat&logo=github&logoColor=white)
+![VISUALSTUDIO](http://img.shields.io/badge/-VS%20Code-8787ff?style=flat&logo=visual%20studio%20code&logoColor=white)
+![PYTHON](http://img.shields.io/badge/-Python-8787ff?style=flat&logo=python&logoColor=white)
+![MySQL](http://img.shields.io/badge/-MySQL-8787ff?style=flat&logo=mysql&logoColor=white)
+![Linux](http://img.shields.io/badge/-Linux-8787ff?style=flat&logo=linux&logoColor=white)
 
-<a href="https://www.linkedin.com/in/mariajosemv/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
 
-<a href="https://twitter.com/mariajosemvv">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
-</p>
+<h4 align="left"> 🎈 Contact me </h4>
 
+<a href="https://www.linkedin.com/in/mariajosemv/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-cc6699?logo=linkedin&logoColor=white"></a>    
+
+<a href="mailto:mariajosemvv@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-cc6699?logo=gmail&logoColor=white"></a>
