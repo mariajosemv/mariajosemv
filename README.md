@@ -1,6 +1,6 @@
 <h3 align="left">Hello 👋, I'm María José</h3>
 
-🚀 I am Physicist from the University of the East (UDO - Venezuela)
+🚀 Physicist from the University of the East (UDO - Venezuela)
 
 ⚛️ I like to do Data Science so that's why I currently learning:
  - Data Science in Platzi [Data Science School](https://platzi.com/datos/).
