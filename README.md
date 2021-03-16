@@ -1,15 +1,10 @@
 <h3 align="left">Hello 👋, I'm María José</h3>
 
-🚀 Physicist from the University of the East (UDO - Venezuela)
-
-⚛️ I like to do Data Science so that's why I currently learning:
- - Data Science in Platzi [Data Science School](https://platzi.com/datos/).
- - Machine Learning in Platzi [Artificial Intelligence and Machine Learning Track](https://platzi.com/ai/).
- 
-   👉 You can see my progress [here](https://platzi.com/@mariajosemv/), and check my notes on Notion over [here](https://www.notion.so/mariajosemv/Class-notes-4e2a3dfe40e643ba8f148b95eb597a0b). ✨ 
-   
-🌟 I would love to apply my knowledge on some real world problems, so I open to internships/part-time opportunities on Machine Learning or Data Science.
- 
+- Physicist 🔜 Data scientist.
+- Note taker lover on [Notion](https://www.notion.so/mariajosemv/Class-notes-4e2a3dfe40e643ba8f148b95eb597a0b). ✨  
+- Lifelong learner. 🌷
+  
+🌟 I'm looking for apply my knowledge on some real world problems, so I open to internships and opportunities on Machine Learning or Data Science.
  
 <div align="left">
 <h4 align="left"> ⚙️ Tech & Tools</h4>
