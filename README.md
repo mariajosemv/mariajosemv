@@ -20,4 +20,4 @@
 
 <h4 align="left"> 🎈 Contact me </h4>
 
-<a href="https://www.linkedin.com/in/mariajosemv/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-cc6699?logo=linkedin&logoColor=white"></a>    <a href="mailto:mariajosemvv@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-cc6699?logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/mariajosemv/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-cc6699?logo=linkedin&logoColor=white"></a>    <a href="mailto:mariajosemvv@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-cc6699?logo=gmail&logoColor=white"></a>   <a href="twitter.com/mariajosemvv" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-cc6699?logo=twitter&logoColor=white"></a>
