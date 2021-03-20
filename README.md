@@ -3,7 +3,7 @@
 - Physicist 🔜 Data scientist.
 - Note taker lover on [Notion](https://www.notion.so/mariajosemv/Class-notes-4e2a3dfe40e643ba8f148b95eb597a0b). ✨  
 - Lifelong learner. 🌷
-- Open to internships and opportunities on Machine Learning or Data Science. 🚀
+- Open to opportunities. 🚀
  
 <div align="left">
 <h4 align="left"> ⚙️ Tech & Tools</h4>
