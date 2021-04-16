@@ -13,6 +13,7 @@
 ![GITHUB](http://img.shields.io/badge/-Github-8787ff?style=flat&logo=github&logoColor=white)
 ![VISUALSTUDIO](http://img.shields.io/badge/-VS%20Code-8787ff?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![PYTHON](http://img.shields.io/badge/-Python-8787ff?style=flat&logo=python&logoColor=white)
+![JAVA](https://img.shields.io/badge/-Java-8787ff?style=flat&logo=java&logoColor=white)
 ![MySQL](http://img.shields.io/badge/-MySQL-8787ff?style=flat&logo=mysql&logoColor=white)
 ![Linux](http://img.shields.io/badge/-Linux-8787ff?style=flat&logo=linux&logoColor=white)
 
