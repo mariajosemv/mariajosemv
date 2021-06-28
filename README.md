@@ -1,9 +1,9 @@
 <h3 align="left">Hello 👋, I'm María José</h3>
 
-- Physicist 🔜 Data scientist.
-- Note taker lover on [Notion](https://www.notion.so/mariajosemv/Class-notes-4e2a3dfe40e643ba8f148b95eb597a0b). ✨  
-- Lifelong learner. 🌷
-- Open to opportunities. 🚀
+- 📊 I'm a Physicist interested in Data science and Economics. 
+- 👩🏻‍🎓 I'm currently studying for a master's degree. 
+- ✨ I'm constantly learning and taking notes on [Notion](https://www.notion.so/mariajosemv/Class-notes-4e2a3dfe40e643ba8f148b95eb597a0b).   
+
  
 <div align="left">
 <h4 align="left"> ⚙️ Tech & Tools</h4>
