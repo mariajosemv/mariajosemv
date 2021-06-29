@@ -2,7 +2,7 @@
 
 - 📊 I'm a Physicist interested in Data science and Economics. 
 - 👩🏻‍🎓 I'm currently studying for a master's degree. 
-- ✨ I'm constantly learning and taking notes on [Notion](https://www.notion.so/mariajosemv/Class-notes-4e2a3dfe40e643ba8f148b95eb597a0b).   
+- ✨ I'm constantly learning and taking notes on [Notion](https://www.notion.so/mariajosemv/c90cb66702a64d4d90f92fc762356642?v=436a938a4b2e45bf86984b55cccc8144).   
 
  
 <div align="left">
