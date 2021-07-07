@@ -1,8 +1,9 @@
 <h3 align="left">Hello 👋, I'm María José</h3>
 
-- 📊 I'm a Physicist interested in Data science and Economics. 
-- 👩🏻‍🎓 I'm currently studying for a master's degree. 
-- ✨ I'm constantly learning and taking notes on [Notion](https://www.notion.so/mariajosemv/c90cb66702a64d4d90f92fc762356642?v=436a938a4b2e45bf86984b55cccc8144).   
+- 🌷 Physicist.
+- 👩🏻‍🎓 Currently studying for a master's degree in Economics. 
+- 📈 Interested in Data science and Machine learning for Economics and Finance. 
+- ✨ Constantly learning and taking notes on [Notion](https://www.notion.so/mariajosemv/c90cb66702a64d4d90f92fc762356642?v=436a938a4b2e45bf86984b55cccc8144).   
 
  
 <div align="left">
