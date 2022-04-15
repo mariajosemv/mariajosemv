@@ -1,4 +1,4 @@
-<h3 align="left">Hello 👋, I'm María José</h3>
+<h3 align="left">Hello, I'm María José</h3>
 
 - 🌷 I'm a Physicist.
 - 👩🏻‍🎓 Currently studying for a master's degree in Economics. 
