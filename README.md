@@ -1,14 +1,15 @@
 <h1 align="left">Hi, I'm María ✨ </h3>
 
-I'm a Physicist and currently studying for a master's degree in Economics. \
-My career goal is to be a financial data scientist someday. 
+👩🏻‍🎓 I'm a Physicist and currently studying for a master's degree in Economics. \
+&nbsp; &nbsp; &nbsp; My career goal is to be a <span style="color: red">financial data scientist someday</span>. 
 
-Some of my hobbies are: \
- 🔹 Workout. \
- 🔹 Break stuff on Linux. \
- 🔹 Learning and taking notes on [Notion](https://www.notion.so/mariajosemv/c90cb66702a64d4d90f92fc762356642?v=436a938a4b2e45bf86984b55cccc8144).  
+Some of my hobbies are:
+ - 💪🏻 Workout.
+ - 🐧 Break stuff on Linux.
+ - ✨ Learning and taking notes on [Notion](https://www.notion.so/mariajosemv/c90cb66702a64d4d90f92fc762356642?v=436a938a4b2e45bf86984b55cccc8144).  
 
-Here you can find more about my hard skills: \
+Here you can find more about my hard skills: 
+
 ![mariajosemv's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariajosemv&unhide=contribs,prs&theme=buefy&show_icons=true) 
 
  
