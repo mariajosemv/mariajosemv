@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm María ✨ </h3>
 
-👩🏻‍🎓 I'm a Physicist and currently studying for a master's degree in Economics. \
-&nbsp; &nbsp; &nbsp; My career goal is to be a <span style="color: red">financial data scientist someday</span>. 
+👩🏻‍🎓 I'm a Physicist and currently I'm studying for a master's degree in Economics. \
+&nbsp; &nbsp; &nbsp; My career goal is to be a financial data scientist someday. 
 
 Some of my hobbies are:
  - 💪🏻 Workout.
