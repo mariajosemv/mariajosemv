@@ -6,7 +6,7 @@
 Some of my hobbies are:
  - 💪🏻 Workout.
  - 🐧 Break stuff on Linux.
- - ✨ Learning and taking notes on [Notion](https://www.notion.so/mariajosemv/c90cb66702a64d4d90f92fc762356642?v=436a938a4b2e45bf86984b55cccc8144).  
+ - ✨ Learning and taking notes on [Notion](https://mariajosemv.notion.site/Notes-repository-99874f5cbece4ebaaa62735389f151b4).  
 
 Here you can find more about my hard skills: 
 
