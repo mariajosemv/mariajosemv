@@ -3,12 +3,15 @@
 👩🏻‍🎓 I'm a Physicist and currently I'm studying for a master's degree in Economics. \
 &nbsp; &nbsp; &nbsp; My career goal is to be a financial data scientist someday. 
 
+👩🏻‍💻 I have experience working programming in Python as a freelancer, \
+&nbsp; &nbsp; &nbsp; and I have done machine learning models for personal projects. 
+
 Some of my hobbies are:
  - 💪🏻 Workout.
  - 🐧 Break stuff on Linux.
  - ✨ Learning and taking notes on [Notion](https://mariajosemv.notion.site/Notes-repository-99874f5cbece4ebaaa62735389f151b4).  
 
-Here you can find more about my hard skills: 
+Here you can find more about my Github stats and hard skills: 
 
 ![mariajosemv's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariajosemv&unhide=contribs,prs&theme=buefy&show_icons=true) 
 
