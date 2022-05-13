@@ -4,7 +4,7 @@
 &nbsp; &nbsp; &nbsp; My career goal is to be a financial data scientist someday. 
 
 👩🏻‍💻 I have experience working programming in Python as a freelancer, \
-&nbsp; &nbsp; &nbsp; and I have done machine learning models for personal projects. 
+&nbsp; &nbsp; &nbsp; and also I have done machine learning models for personal projects. 
 
 Some of my hobbies are:
  - 💪🏻 Workout.
