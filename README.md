@@ -3,7 +3,7 @@
 👩🏻‍🎓 I'm a Physicist and currently I'm studying for a master's degree in Economics. \
 &nbsp; &nbsp; &nbsp; My career goal is to be a financial data scientist someday. 
 
-👩🏻‍💻 I have experience working programming in Python as a freelancer, \
+👩🏻‍💻 I have experience programming in Python as a freelancer, \
 &nbsp; &nbsp; &nbsp; and also I have done machine learning models for personal projects. 
 
 Some of my hobbies are:
