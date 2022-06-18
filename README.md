@@ -4,7 +4,7 @@ I'm a Physicist and currently I'm studying for a master's degree in Economics. �
 
 In my free time I enjoy experimenting (*a.k.a. break stuff*) in Linux operative systems 🐧 and keep records of my learning on [Notion](https://mariajosemv.notion.site/Notes-repository-99874f5cbece4ebaaa62735389f151b4).  ✨
 
- 🌱 Now I'm improving my English skills. \
+ 🌱 Now I'm improving my English communication skills. \
  🗨️ Ask me about whatever you want. I am interested in helping and sharing.
 
  
