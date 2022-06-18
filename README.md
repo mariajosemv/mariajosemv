@@ -12,14 +12,20 @@ In my free time I enjoy experimenting (*a.k.a. break stuff*) in Linux operative 
 <h2 align="left"> Some technologies I use: </h4>
 
 
-![GIT](http://img.shields.io/badge/-Git-c27ba0?style=flat&logo=git&logoColor=white)
-![GITHUB](http://img.shields.io/badge/-Github-c27ba0?style=flat&logo=github&logoColor=white)
-![VISUALSTUDIO](http://img.shields.io/badge/-VS%20Code-c27ba0?style=flat&logo=visual%20studio%20code&logoColor=white)
-![PYTHON](http://img.shields.io/badge/-Python-c27ba0?style=flat&logo=python&logoColor=white)
-![R](http://img.shields.io/badge/-R-c27ba0?style=flat&logo=r&logoColor=white)
-![JAVA](https://img.shields.io/badge/-Java-c27ba0?style=flat&logo=java&logoColor=white)
-![MySQL](http://img.shields.io/badge/-MySQL-c27ba0?style=flat&logo=mysql&logoColor=white)
-![Linux](http://img.shields.io/badge/-Linux-c27ba0?style=flat&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![SKLEARN](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PANDAS](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) \
+![NUMPY](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![RSTUDIO](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+
 </div>
  
  <h2 align="left"> Some of my projects: </h4>
