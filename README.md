@@ -8,12 +8,10 @@ In my free time I enjoy experimenting (*a.k.a. break stuff*) in Linux operative 
  🗨️ Ask me about whatever you want. I am interested in helping and sharing.
 
  
-<div align="left">
+<div align="center">
 <h2 align="left"> Some technologies I use: </h4>
 
 
-
- 
 ![GIT](http://img.shields.io/badge/-Git-c27ba0?style=flat&logo=git&logoColor=white)
 ![GITHUB](http://img.shields.io/badge/-Github-c27ba0?style=flat&logo=github&logoColor=white)
 ![VISUALSTUDIO](http://img.shields.io/badge/-VS%20Code-c27ba0?style=flat&logo=visual%20studio%20code&logoColor=white)
@@ -22,6 +20,7 @@ In my free time I enjoy experimenting (*a.k.a. break stuff*) in Linux operative 
 ![JAVA](https://img.shields.io/badge/-Java-c27ba0?style=flat&logo=java&logoColor=white)
 ![MySQL](http://img.shields.io/badge/-MySQL-c27ba0?style=flat&logo=mysql&logoColor=white)
 ![Linux](http://img.shields.io/badge/-Linux-c27ba0?style=flat&logo=linux&logoColor=white)
+</div>
  
  <h2 align="left"> Some of my projects: </h4>
  
@@ -46,7 +45,10 @@ Exploratory data analysis, bootstrapping resample, and hypothesis test to evalua
 
 <h2 align="left"> Some of my stats are: </h4>
 
+<div align="center">
+ 
 ![mariajosemv's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariajosemv&unhide=contribs,prs&theme=buefy&show_icons=true) 
 
+</div>
  
  
