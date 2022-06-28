@@ -45,7 +45,7 @@ Exploratory data analysis, bootstrapping resample, and hypothesis test to evalua
  <h2 align="left"> Find me around the web: </h4>
 
  - Talking and sharing in [Twitter](https://twitter.com/mariajosemvv).
- - Writing in [Medium](https://medium.com/@mariajosemv).
+ - Writing in [my blog](https://mariajosemv.com/blog/).
  - And know a little more about my work in [Linkedin](https://www.linkedin.com/in/mariajosemv/).
  
 
