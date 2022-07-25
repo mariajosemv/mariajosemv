@@ -2,7 +2,7 @@
 
 I'm a Physicist and currently I'm studying for a master's degree in Economics. 👩🏻‍🎓 I've worked as a freelancer with different people around the world creating Python ETL pipelines and creating specialized content about Data Science and Machine learning.
 
-In my free time I enjoy experimenting (*a.k.a. break stuff*) in Linux operative systems 🐧 and keep records of my learning on [Notion](https://mariajosemv.notion.site/Notes-repository-99874f5cbece4ebaaa62735389f151b4).  ✨
+In my free time I enjoy experimenting (*a.k.a. break stuff*) in Linux operative systems 🐧 and keep records of my learning on [Notion](https://mariajosemv.super.site).  ✨
 
  🌱 Now I'm improving my English communication skills. \
  🗨️ Ask me about whatever you want. I am interested in helping and sharing.
