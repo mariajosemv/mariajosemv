@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm María ✨ </h3>
 
-I'm a Physicist and currently I'm studying for a master's degree in Economics. 👩🏻‍🎓 I've worked as a freelancer with different people around the world creating Python ETL pipelines and creating specialized content about Data Science and Machine learning.
+I'm a Physicist and currently I'm studying for a master's degree in Economics. 👩🏻‍🎓 I've worked as a freelancer with different people around the world creating Python ETL pipelines and creating specialized content about Data Science and Machine learning. Now, I'm working as a Data engineer. 👩🏻‍🔧
 
 In my free time I enjoy experimenting (*a.k.a. break stuff*) in Linux operative systems 🐧 and keep records of my learning on [Notion](https://mariajosemv.super.site).  ✨
 
