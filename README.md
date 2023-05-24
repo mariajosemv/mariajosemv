@@ -8,7 +8,7 @@ In my free time I enjoy experimenting (*a.k.a. break stuff*) in Linux operative 
 
  
 <div align="center">
-<h2 align="left"> Some technologies I use: </h4>
+<h2 align="left"> Some technologies I use:  </h4>
 
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
