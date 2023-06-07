@@ -1,10 +1,13 @@
 <h1 align="left">Hi, I'm María ✨ </h3>
 
-I'm a Physicist and currently I'm studying for a master's degree in Economics. 👩🏻‍🎓 I've worked as a freelancer with different people around the world creating Python ETL pipelines and creating specialized content about Data Science and Machine learning. Now, I'm working as a Data engineer. 👩🏻‍🔧
+I'm a Physicist and I'm currently working as a Data engineer. 👩🏻‍🔧  I have experience in data manipulation and data analysis with Python and SQL. 📊 I also have knowledge of classical machine learning models and deep learning. 🤖
 
-In my free time I enjoy experimenting (*a.k.a. break stuff*) in Linux operative systems 🐧 and keep records of my learning on [Notion](https://mariajosemv.super.site).  ✨
+In my free time I enjoy experimenting (*a.k.a. breaking stuff*) in Linux operative systems 🐧 and keep records of my learning on [Notion](https://mariajosemv.super.site).  ✨
 
- 🗨️ Ask me about whatever you want. I am interested in helping and sharing.
+🌱 I'm currently studying [Cloud Engineer Learning Path](https://www.cloudskillsboost.google/paths/11) from Google Cloud. \
+ 🗨️ Ask me about whatever you want. I am interested in helping and sharing. 
+ 
+
 
  
 <div align="center">
