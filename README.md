@@ -34,8 +34,8 @@ In my free time I enjoy experimenting (*a.k.a. breaking stuff*) in Linux operati
  
 - 📈 [Real Time Predictions](https://github.com/mariajosemv/Real-Time-Predictions)
  
-Train in real-time a neural network model for predict the price of house sales. After this, you can evaluate the model using the learning curves.
- 
+Train in real-time a neural network model to predict the price of house sales and evaluate its performance using the learning curves.
+
 - 🧩 [ETL News Website](https://github.com/mariajosemv/ETL-for-news-websites) 
 
 Pipeline for Extract, Transform and Load articles from news websites into an SQLite database.
@@ -50,7 +50,7 @@ Exploratory data analysis, bootstrapping resample, and hypothesis test to evalua
  - Writing in [my blog](https://mariajosemv.com/blog/).
  - And know a little more about my work in [Linkedin](https://www.linkedin.com/in/mariajosemv/).
  
-
+<!--
 <h2 align="left"> Some of my stats are: </h4>
 
 <div align="center">
@@ -58,5 +58,6 @@ Exploratory data analysis, bootstrapping resample, and hypothesis test to evalua
 ![mariajosemv's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariajosemv&unhide=contribs,prs&theme=buefy&show_icons=true) 
 
 </div>
+-->
  
  
