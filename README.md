@@ -2,7 +2,7 @@
 
 I'm a Physicist and I'm currently working as a Data engineer. 👩🏻‍🔧  I have experience in data manipulation and data analysis with Python and SQL. 📊 I also have knowledge of classical machine learning models and deep learning. 🤖
 
-In my free time I enjoy experimenting (*a.k.a. breaking stuff*) in Linux operative systems 🐧 and keep records of my learning on [Notion](https://mariajosemv.super.site).  ✨
+In my free time I enjoy experimenting (*a.k.a. breaking stuff*) in Linux operative systems 🐧 and keep records of my learning on [Notion](https://mariajosemv.notion.site/c90cb66702a64d4d90f92fc762356642?v=436a938a4b2e45bf86984b55cccc8144).  ✨
 
 🌱 I'm currently studying [Cloud Engineer Learning Path](https://www.cloudskillsboost.google/paths/11) from Google Cloud. \
  🗨️ Ask me about whatever you want. I am interested in helping and sharing. 
