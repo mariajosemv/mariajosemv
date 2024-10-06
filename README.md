@@ -1,11 +1,11 @@
 <h1 align="left">Hi, I'm María ✨ </h3>
 
-I'm a Physicist and I'm currently working as a Data engineer. 👩🏻‍🔧  I have experience in data manipulation and data analysis with Python and SQL. 📊 I also have knowledge of classical machine learning models and deep learning. 🤖
+Physicist converted into Data + Software engineer.  Experience in math and physics modeling, web scraping, data visualization, data engineering and  data science fan. Currently envolving into a Software engineer and Full Stack Developer. 
 
 In my free time I enjoy experimenting (*a.k.a. breaking stuff*) in Linux operative systems 🐧 and keep records of my learning on [Notion](https://mariajosemv.notion.site/c90cb66702a64d4d90f92fc762356642?v=436a938a4b2e45bf86984b55cccc8144).  ✨
 
-🌱 I'm currently studying [Cloud Engineer Learning Path](https://www.cloudskillsboost.google/paths/11) from Google Cloud. \
- 🗨️ Ask me about whatever you want. I am interested in helping and sharing. 
+🌱 I'm currently studying [Cloud Engineer Learning Path](https://www.cloudskillsboost.google/paths/11) from Google Cloud. You can find my learning notes [here](https://github.com/mariajosemv/Cloud-Engineer-Learning-Path) 😉. \
+ 💫 Ask me about whatever you want. I love to help and share. 
  
 
 
@@ -25,7 +25,15 @@ In my free time I enjoy experimenting (*a.k.a. breaking stuff*) in Linux operati
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![RSTUDIO](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
 ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) \
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![JEST](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![NEXT](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+
 
 
 </div>
