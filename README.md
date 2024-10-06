@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm María ✨ </h3>
 
-Physicist converted into Data + Software engineer.  Experience in math and physics modeling, web scraping, data visualization, data engineering and  data science fan. Currently envolving into a Software engineer and Full Stack Developer. 
+Physicist converted into Data + Software engineer.  Experience in math and physics modeling, web scraping, data visualization, data engineering and  data science fan. Currently evolving into a Software engineer and Full Stack Developer. 
 
 In my free time I enjoy experimenting (*a.k.a. breaking stuff*) in Linux operative systems 🐧 and keep records of my learning on [Notion](https://mariajosemv.notion.site/c90cb66702a64d4d90f92fc762356642?v=436a938a4b2e45bf86984b55cccc8144).  ✨
 
